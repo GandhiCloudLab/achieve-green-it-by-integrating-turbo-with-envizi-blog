@@ -183,17 +183,9 @@ You can change the report period to show the data between the selected dates.
 
 Reference to the related content.
 
-#### Achieve Green IT targets by integrating Turbonomic with Envizi
-
-This document covers how Organizations with a sustainability initiative can have an instant impact in their IT Operations by leveraging IBM Turbonomic with Envizi. 
-
-https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
-
 #### Integrating Turbo with Envizi via AppConnect for Green IT data
 
 This blog explains about the step-by-step instructions to pull green IT data from Turbonomic into Envizi via App Connect.
 
-[../02-Integrating-turbo-with-envizi-via-appconnect](../02-Integrating-turbo-with-envizi-via-appconnect/)
-
-
+https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
 
