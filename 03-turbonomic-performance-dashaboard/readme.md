@@ -16,7 +16,7 @@ The dashboard showcases the following information.
 
 The dashboard shows the entire organizations Host energy and emission details. 
 
-<img src="images/image11.png">
+<img src="images/image-11.png">
 
 #### Left Panel
 
@@ -51,13 +51,13 @@ Now the panel contains the below values.
 
 The right side panel also highlights the selected data center.
 
-<img src="images/image12.png">
+<img src="images/image-12.png">
 
 2. Mouseover  on the `data center` in the map shows the `Host energy Consumption` graph comparing with the previous year.
 
 The graph shows that `energy consumptions` are less than last year.
 
-<img src="images/image13.png">
+<img src="images/image-13.png">
 
 ### 1.2 Host Emissions by Data Center
 
@@ -65,13 +65,13 @@ The graph shows that `energy consumptions` are less than last year.
 
 It refreshes the page with the Emissions details. There is no change to the left panel as it is already showing emission details.
 
-<img src="images/image14.png">
+<img src="images/image-14.png">
 
 2. Mouseover on the `data center` in the map shows the `Emissions graph` comparing with the previous year.
 
 The graph shows that emissions are less than last year.
 
-<img src="images/image15.png">
+<img src="images/image-15.png">
 
 ### 1.3 VM:Host Density by Data Center
 
@@ -85,7 +85,7 @@ It refreshes the page with the VM:Host details.
 
 The graph shows that VM:Host density is higher than last year.
 
-<img src="images/image16.png">
+<img src="images/image-16.png">
 
 
 ### 1.4 Energy:Host Intensity by Data Center
@@ -100,7 +100,7 @@ It refreshes the page with the Energy:Host details.
 
 The graph shows that Energy:Host Intensity is higher than last year.
 
-<img src="images/image17.png">
+<img src="images/image-17.png">
 
 
 
@@ -112,11 +112,11 @@ Lets look at the data center summary report.
 
 2. Click on `Drillthrough on selected data center` button.
 
-<img src="images/image18.png">
+<img src="images/image-18.png">
 
 It shows the `Data Center Summary` page.
 
-<img src="images/image19.png">
+<img src="images/image-19.png">
 
 #### Left Panel
 
@@ -143,7 +143,7 @@ The bottom of the Center Panel shows `No. of Active Hosts vs No. of Active VMs` 
 
 The center panel get refreshed.
 
-<img src="images/image20.png">
+<img src="images/image-20.png">
 
 2. Mouseover the in the `No. of Active Hosts vs No. of Active VMs` section of the graph
 
@@ -153,7 +153,7 @@ It shows
 
 3. Mouseover the in the `VM:Host Density vs Host Energy Consumption` section of the graph
 
-<img src="images/image21.png">
+<img src="images/image-21.png">
 
 It shows
 - The `Host Energy` of the month is `4294.02`
@@ -170,11 +170,11 @@ It refreshes the page with the Energy:Host details.
 
 The center panel get refreshed.
 
-<img src="images/image22.png">
+<img src="images/image-22.png">
 
 3. Mouseover the in the `Energy:Host Intensity vs Host Energy Consumption` section of the graph
 
-<img src="images/image23.png">
+<img src="images/image-23.png">
 
 It shows
 - The `Host Energy` of the month is `4294.02`
@@ -184,4 +184,4 @@ It shows
 
 You can change the report period to show the data between the selected dates.
 
-<img src="images/image24.png">
+<img src="images/image-24.png">
