@@ -145,20 +145,15 @@ The center panel get refreshed.
 
 <img src="images/image-20.png">
 
-2. Mouseover the in the `No. of Active Hosts vs No. of Active VMs` section of the graph
-
-It shows 
+2. Mouseover the in the `No. of Active Hosts vs No. of Active VMs` section of the graph. It shows 
 - The `Active Hosts` of the month is `21`
 - The `Active VMs` of the month is `345`
 
-3. Mouseover the in the `VM:Host Density vs Host Energy Consumption` section of the graph
-
-<img src="images/image-21.png">
-
-It shows
+3. Mouseover the in the `VM:Host Density vs Host Energy Consumption` section of the graph. It shows
 - The `Host Energy` of the month is `4294.02`
 - The `VM Density` of the month is `16.41`
 
+<img src="images/image-21.png">
 
 ### 2.2 Energy:Host Intensity vs Host Energy Consumption
 
@@ -172,13 +167,11 @@ The center panel get refreshed.
 
 <img src="images/image-22.png">
 
-3. Mouseover the in the `Energy:Host Intensity vs Host Energy Consumption` section of the graph
-
-<img src="images/image-23.png">
-
-It shows
+3. Mouseover the in the `Energy:Host Intensity vs Host Energy Consumption` section of the graph. It shows
 - The `Host Energy` of the month is `4294.02`
 - The `VM Host Density` of the month is `16.41`
+
+<img src="images/image-23.png">
 
 ## 3. Reporting Period 
 
