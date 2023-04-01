@@ -181,7 +181,7 @@ You can change the report period to show the data between the selected dates.
 
 ## Appendix
 
-Refer the following.
+Reference to the related content.
 
 #### Achieve Green IT targets by integrating Turbonomic with Envizi
 
