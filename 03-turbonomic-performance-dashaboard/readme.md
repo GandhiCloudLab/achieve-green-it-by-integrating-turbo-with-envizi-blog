@@ -1,16 +1,14 @@
-# Envizi - Turbonomic Performance Dashboard 
+# Turbonomic Performance Dashboard in Envizi.
 
-This document describes about the Turbonomic Performance Dashboard available in Envizi.
+This blog describes about the Turbonomic Performance Dashboard available in Envizi.
 
-The Turbonomic Performance Dashboard allows to view and compare the energy and emissions performance of your data centers and assess the performance of deploying Turbonomic Resource Optimization technology.
+Turbonomic Performance Dashboard in Envizi allows the Sustainability Manager to view and compare  the energy and emissions performance of the data centers and assess the performance of deploying Turbonomic Resource Optimization technology.
 
-The dashboard showcases the following information.
+The dashboard helps to view the following information.
 - Host Energy Consumption by Data Center
 - Host Emissions by Data Center
-- VM:Host Density by Data Center
-- Energy:Host Intensity by Data Center
-- VM:Host Density vs Host Energy Consumption of a Data Center
-- Energy:Host Intensity vs Host Energy Consumption of a Data Center
+- Density of VM to Host by Data Center
+- Intensity of Energy to Host by Data Center
 
 ## 1. Dashboard Home
 
@@ -178,3 +176,24 @@ The center panel get refreshed.
 You can change the report period to show the data between the selected dates.
 
 <img src="images/image-24.png">
+
+
+
+## Appendix
+
+Refer the following.
+
+#### Achieve Green IT targets by integrating Turbonomic with Envizi
+
+This document covers how Organizations with a sustainability initiative can have an instant impact in their IT Operations by leveraging IBM Turbonomic with Envizi. 
+
+https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
+
+#### Integrating Turbo with Envizi via AppConnect for Green IT data
+
+This blog explains about the step-by-step instructions to pull green IT data from Turbonomic into Envizi via App Connect.
+
+[../02-Integrating-turbo-with-envizi-via-appconnect](../02-Integrating-turbo-with-envizi-via-appconnect/)
+
+
+
