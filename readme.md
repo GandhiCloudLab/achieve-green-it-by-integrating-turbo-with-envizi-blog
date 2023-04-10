@@ -24,3 +24,5 @@ This document describes about the Turbonomic Performance Dashboard available in 
 [03-turbonomic-performance-dashaboard](./03-turbonomic-performance-dashaboard/)
 
 
+#### Authors
+ [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1), [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31)

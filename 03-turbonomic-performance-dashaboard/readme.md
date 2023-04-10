@@ -10,6 +10,11 @@ The dashboard helps to view the following information.
 - Density of VM to Host by Data Center
 - Intensity of Energy to Host by Data Center
 
+
+#### Authors
+ [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1), [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31)
+
+
 ## 1. Dashboard Home
 
 The dashboard shows the entire organizations Host energy and emission details. 
@@ -189,3 +194,11 @@ This blog explains about the step-by-step instructions to pull green IT data fro
 
 https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
 
+
+#envizi
+#Sustainability
+#turbonomic
+#dashboard
+
+#ESG Data and Environmental Intelligence
+#sustainability-highlights-home

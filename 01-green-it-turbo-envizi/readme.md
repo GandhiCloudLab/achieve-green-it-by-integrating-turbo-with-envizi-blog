@@ -2,6 +2,11 @@
 
 This document covers how Organizations with a sustainability initiative can have an instant impact in their IT Operations by leveraging IBM Turbonomic with Envizi. 
 
+
+#### Authors
+ [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31), [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1)
+
+
 ## Green IT
 
 Over the last decade, investor pressure, reputational risk, government legislation, and the introduction of Environmental, Social, and Governance (ESG) reporting frameworks have paved the way for organizations to drive sustainability initiatives and set decarbonization goals. 

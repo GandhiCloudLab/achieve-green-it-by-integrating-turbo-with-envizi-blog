@@ -2,6 +2,9 @@
 
 This blog explains about the step-by-step instructions to pull green IT data from Turbonomic into Envizi via App Connect.
 
+#### Authors
+ [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1), [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31)
+
 ## Contents
 
 - [1. Prerequisite](#1-Prerequisite)
@@ -327,3 +330,10 @@ This document describes about the Turbonomic Performance Dashboard available in 
 
 [../03-turbonomic-performance-dashaboard](../03-turbonomic-performance-dashaboard/)
 
+ 
+#envizi
+#Sustainability
+#turbonomic
+
+#ESG Data and Environmental Intelligence
+#sustainability-highlights-home
