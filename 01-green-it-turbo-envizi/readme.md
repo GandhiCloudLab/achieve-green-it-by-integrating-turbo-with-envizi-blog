@@ -21,9 +21,14 @@ IBM Turbonomic is an Application Resource Management solution that can help the 
 
 With IBM Turbonomic, you can make an immediate impact on energy use by optimizing how you allocate resources to applications. When applications consume only what they need to perform, you can increase utilization, reduce carbon emissions, and achieve continuously efficient operations. 
 
+<img src="images/image10.png">
+
+
 ## IBM Envizi
 
 IBM Envizi ESG Suite platform that accelerates the sustainability by managing all your environmental, social and governance (ESG) indicators in a single platform. A single system of record that delivers auditable, finance-grade ESG and sustainability data. Provides flexible reporting tools to meet internal and external ESG and sustainability reporting requirements. Integrates internal and external stakeholders, process and technology to embed sustainability into daily operations. Unlocks insights to inform the fastest and most cost-effective pathway to decarbonization.
+
+<img src="images/image11.png">
 
 ## Operationalize sustainability 
 
@@ -56,9 +61,13 @@ Here are the benefits out of this togetherness
 
 The sustainable IT dashboard, built into Turbonomic reporting that enables customers to measure their energy use and carbon output from the customers data center.
 
-<img src="images/image1.png">
-<img src="images/image2.png">
+<img src="images/image12-1.png">
+<img src="images/image12-2.png">
 
+<img src="images/image13-1.png">
+<img src="images/image13-2.png">
+<img src="images/image13-3.png">
+<img src="images/image13-4.png">
 
 Data from the sustainable IT dashboard indicates the before and after Turbonomic actions taken measurements of energy and carbon use from the data center and show the estimated carbon impact equivalent (MTCO2, # households, # tree seedlings). This data can be leveraged by ESG reporting tools, or directly connected to Envizi to leverage for ESG reporting. This ensures carbon reporting is accurate and continuous.
 
@@ -68,7 +77,8 @@ Turbonomic will soon launch phase II of the sustainable IT dashboard with a new 
 
 The Turbonomic Performance Dashboard in Envizi helps to view and compare the energy and emissions performance of your data centers and assess the performance of deploying Turbonomic Resource Optimization technology.
 
-<img src="images/image3.png">
+<img src="images/image14-1.png">
+<img src="images/image14-2.png">
 
 The dashboard shows the below information pertaining to Energy, Emissions, Density and etc.
 - Host Energy Consumption by Data Center
