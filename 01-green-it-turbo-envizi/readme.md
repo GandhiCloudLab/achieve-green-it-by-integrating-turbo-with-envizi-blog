@@ -1,4 +1,4 @@
-# Achieve Green IT targets by integrating Turbonomic with Envizi (DRAFT...)
+# Achieve Green IT targets by integrating Turbonomic with Envizi
 
 This article covers how Organizations with a sustainability initiative can have an instant impact in their IT Operations by leveraging IBM Turbonomic with Envizi.
 
