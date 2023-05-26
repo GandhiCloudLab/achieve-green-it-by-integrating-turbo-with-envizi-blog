@@ -73,10 +73,8 @@ IBM Hursley’s Hyperscale Cloud Data Centre (HCDC) is one of IBM's flagship dat
 
 They began using IBM Turbonomic last year and saw immediate benefits.
 
-IBM Cloud DataCentre Technical Manager & Master Inventor `Colin Holyoake` says that 
-```
-When we first provisioned Turbonomic we were impressed with how quickly we got it running. One of the main benefits is that it gives assurance of your environment, continues to give actionable recommendations, while also allowing you to customize policies to match the operational approach.
-```
+IBM Cloud DataCentre Technical Manager & Master Inventor `Colin Holyoake` says that `When we first provisioned Turbonomic we were impressed with how quickly we got it running. One of the main benefits is that it gives assurance of your environment, continues to give actionable recommendations, while also allowing you to customize policies to match the operational approach.`
+
 
 ## Sustainable IT dashboard in Turbonomic
 
