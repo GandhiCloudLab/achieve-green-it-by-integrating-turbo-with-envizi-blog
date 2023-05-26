@@ -1,7 +1,6 @@
 # Achieve Green IT targets by integrating Turbonomic with Envizi (DRAFT...)
 
-This document covers how Organizations with a sustainability initiative can have an instant impact in their IT Operations by leveraging IBM Turbonomic with Envizi. 
-
+This article covers how Organizations with a sustainability initiative can have an instant impact in their IT Operations by leveraging IBM Turbonomic with Envizi.
 
 #### Authors
  [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31), [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1)
@@ -56,6 +55,28 @@ Here are the benefits out of this togetherness
 - Envizi creates a snapshot through a dashboard of metrics useful for environmental, social, and corporate governance (ESG) goals.
 - Envizi can highlight efficiency gains from resource optimizations and reductions in energy and emissions.
 - Envizi reporting shows detailed results of energy and carbon reduction changes made from IT optimization through Turbonomic and accurately provides data to Envizi for ESG reporting.
+
+<img src="images/image15.png">
+
+## IBM’s own data center is using IBM Turbonomic 
+
+IBM also has published its sustainability goals, including net zero greenhouse gas emissions by 2030.
+
+IBM Hursley’s Hyperscale Cloud Data Centre (HCDC) is one of IBM's flagship data centers consisting of a 27,000 square foot room and supporting over 11,000 developers. 
+
+- 580 racks containing IBM development
+- 4,500 physical systems, 
+- 87% virtualized with a range of technologies including: 2x private developer clouds, and ~6,000 VMWare based systems
+- 10 Petabytes of enterprise grade storage
+- 11 mainframes including the latest z16
+- 1-100G networking with direct 10G links to IBM SoftLayer
+
+They began using IBM Turbonomic last year and saw immediate benefits.
+
+IBM Cloud DataCentre Technical Manager & Master Inventor `Colin Holyoake` says that 
+```
+When we first provisioned Turbonomic we were impressed with how quickly we got it running. One of the main benefits is that it gives assurance of your environment, continues to give actionable recommendations, while also allowing you to customize policies to match the operational approach.
+```
 
 ## Sustainable IT dashboard in Turbonomic
 
