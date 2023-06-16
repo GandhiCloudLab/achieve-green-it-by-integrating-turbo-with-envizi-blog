@@ -116,11 +116,11 @@ Refer the following.
 
 This blog explains about the step-by-step instructions to pull green IT data from Turbonomic into Envizi via App Connect.
 
-[../02-Integrating-turbo-with-envizi-via-appconnect](../02-Integrating-turbo-with-envizi-via-appconnect/)
+https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
 
 
 #### Envizi - Turbonomic Performance Dashboard 
 
-This document describes about the Turbonomic Performance Dashboard available in Envizi.
+This blog describes about the Turbonomic Performance Dashboard available in Envizi.
 
-[../03-turbonomic-performance-dashaboard](../03-turbonomic-performance-dashaboard/)
+(https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/04/01/turbonomic-performance-dashboard-in-envizi
